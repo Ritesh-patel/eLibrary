@@ -1,0 +1,51 @@
+
+
+/* ===== Primary Styles ========================================================
+   Author:
+   ========================================================================== */
+
+.book{
+	float:left;
+	border: 1px solid #c4c4c4;
+	padding:10px;
+	margin:0 10px 10px 0;
+	width:350px;
+	background:#F5F5F5;
+	border-radius: 5px;
+	}
+.book:hover{
+	background:#e7e7e7;
+	}	
+
+.book img {
+	border : 1px solid #CCC;
+	padding:5px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-radius:5px;
+	}
+.price{
+	line-height:30px;
+	background:url(../img/rupeeel.png) no-repeat;
+	padding-left: 18px;
+	}
+.title{
+	font-weight:bold;
+	font-size:14px;
+	color:#196cba;
+	margin-bottom:10px;
+	}	
+.book p{
+	margin-bottom:5px;
+	}
+	
+.price{
+	font-weight:bold;
+	}
+
+
+
+
+
+
+
